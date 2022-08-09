@@ -1,0 +1,12 @@
+C:\Users\CASPER\Documents\Visual Studio 2013\Projects\ASP.NET_ile_Adres_Defteri\AdresDefteri\AdresDefteri\bin\AdresDefteri.dll.config
+C:\Users\CASPER\Documents\Visual Studio 2013\Projects\ASP.NET_ile_Adres_Defteri\AdresDefteri\AdresDefteri\bin\AdresDefteri.dll
+C:\Users\CASPER\Documents\Visual Studio 2013\Projects\ASP.NET_ile_Adres_Defteri\AdresDefteri\AdresDefteri\bin\AdresDefteri.pdb
+C:\Users\CASPER\Documents\Visual Studio 2013\Projects\ASP.NET_ile_Adres_Defteri\AdresDefteri\AdresDefteri\obj\Debug\AdresDefteri.dll
+C:\Users\CASPER\Documents\Visual Studio 2013\Projects\ASP.NET_ile_Adres_Defteri\AdresDefteri\AdresDefteri\obj\Debug\AdresDefteri.pdb
+C:\Users\CASPER\Documents\Visual Studio 2013\Projects\ASP.NET_ile_Adres_Defteri\AdresDefteri\AdresDefteri\obj\Debug\AdresDefteri.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\Desktop\projeler1\AdresDefteri\AdresDefteri\bin\AdresDefteri.dll.config
+C:\Users\CASPER\Desktop\projeler1\AdresDefteri\AdresDefteri\bin\AdresDefteri.dll
+C:\Users\CASPER\Desktop\projeler1\AdresDefteri\AdresDefteri\bin\AdresDefteri.pdb
+C:\Users\CASPER\Desktop\projeler1\AdresDefteri\AdresDefteri\obj\Debug\AdresDefteri.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\Desktop\projeler1\AdresDefteri\AdresDefteri\obj\Debug\AdresDefteri.dll
+C:\Users\CASPER\Desktop\projeler1\AdresDefteri\AdresDefteri\obj\Debug\AdresDefteri.pdb

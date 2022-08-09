@@ -1,0 +1,45 @@
+﻿body {
+    background-color: #999;
+}
+#pageContainer{
+    width:700px;
+    margin: 0 auto;
+    border: solid 1px #777;
+}
+
+.header{
+    text-align:center;
+    font-size:30pt;
+    border-bottom: solid 2px #777;
+}
+
+#mainContent{
+    min-height:300px;
+    background-color:#888;
+}
+#operations{
+    float:left;
+}
+#operations ul{
+    list-style:none;
+    margin:0;
+    padding:0;
+    width:100px;
+}
+#operationContainer{
+    float:left;
+    width:600px;
+    background-color: #666;
+}
+#newAddress{
+    min-height:100px;
+    background-color:#444;
+}
+#myAddresses{
+    min-height:100px;
+    background-color:#666;
+    display: none;
+}
+.cls{
+    clear:both;
+}
